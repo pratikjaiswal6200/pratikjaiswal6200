@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ PRATIK.EXE ⚡</h1>
+<h1 align="center">⚡ PRATIK.jaiswal ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+System...;Loading+Developer+Profile...;Access+Granted+🚀;Welcome+to+My+World" />
