@@ -1,139 +1,71 @@
+markdown_content = """<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=38&animation=twinkling" />
+</div>
 
-<h1 align="center">⚡ PRATIK.jaiswal ⚡</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Nimish+Kumar;B.Tech+CSE+%40+KR+Mangalam+University;IoT+%26+Robotics+Enthusiast;AI%2FML+%26+Computer+Vision+Developer;Cinematic+Videography+%26+Photography" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+System...;Loading+Developer+Profile...;Access+Granted+🚀;Welcome+to+My+World" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+</div>
 
----
+<br/>
 
-## 🧠 SYSTEM TERMINAL
+## 👨‍💻 About Me
 
-```diff
-+ USER: Pratik Jaiswal
-+ STATUS: ONLINE 🟢
-+ MODE: BUILDING PROJECTS
-! WARNING: HIGH CODING ACTIVITY ⚠️
-```
+- 🎓 Pursuing B.Tech in **Computer Science and Engineering**.
+- 💼 Currently an intern at **CodeAlpha**.
+- 🤖 Deeply passionate about bridging the gap between software and hardware through **IoT and Robotics**.
+- 📸 When I'm not coding, I'm likely flying drones for cinematic campus footage or organizing university sports events.
 
----
+<br/>
 
-## 🎮 DEV GAME DASHBOARD
+## 🛠️ Tech Stack & Tools
 
-```
-🎯 LEVEL: █████████░ 90%
-💻 CODING: ████████████ 100%
-🔥 DEBUG: ████████░░ 70%
-🚀 SPEED: █████████░ 85%
-💀 BUGS KILLED: ∞
-```
-
----
-
-## 🕹️ MINI GAME — GUESS THE OUTPUT
-
-```javascript
-function mystery(x) {
-  return x.split('').reverse().join('');
-}
-
-console.log(mystery("PRATIK"));
-```
-
-💡 Think before scrolling...
-
-<details>
-<summary>👀 Show Answer</summary>
-
-```
-KITARP
-```
-
-</details>
-
----
-
-## 🐍 LIVE SNAKE GAME (AUTO ANIMATED)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratikjaiswal6200/pratikjaiswal6200/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,html,css,git,github,vscode" />
-</p>
-
----
-
-## 📊 POWER STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikjaiswal6200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikjaiswal6200&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 💬 LIVE DEV QUOTE (changes on refresh)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 😂 RANDOM DEV JOKE (NEW EVERY TIME)
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
----
-
-## 🧪 FAKE TERMINAL SIMULATION
-
-```
-$ whoami
-> pratikjaiswal6200
-
-$ skill --list
-> JavaScript
-> Python
-> React
-> Problem Solving
-
-$ deploy project
-> SUCCESS 🚀
-
-$ debug life
-> ERROR 404: MEANING NOT FOUND
-```
-
----
-
-## 🌐 CONNECT
-
-<p align="center">
-  <a href="https://github.com/pratikjaiswal6200">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,arduino,raspberrypi,github,vscode&perline=10" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🧨 FINAL BOSS MESSAGE
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=SYSTEM+OVERRIDE...;YOU+ARE+NOW+INSIDE+MY+PROFILE;WELCOME+TO+THE+CODE+ZONE+💀" />
-</p>
+<div align="center">
+  
+| 🏆 Project | 📜 Description | ⚙️ Tech Stack |
+| :--- | :--- | :--- |
+| **VisionDrive** | Advanced lane change detection and trajectory analysis system for autonomous navigation. | `<YOLOv8>` `<Python>` `<OpenCV>` |
+| **Smart Library Tracker** | Real-time seat occupancy dashboard using hardware sensors to track library availability. | `<ESP32>` `<C++>` `<Web Dashboard>` |
+| **Autonomous TurtleBot** | Custom-built vacuum cleaning robot designed for automated navigation in university labs. | `<Raspberry Pi>` `<Sensors>` `<Hardware>` |
 
----
+</div>
 
-⭐️ *This profile is not static. It’s a system.* ⚡
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nimishkumar9155-lgtm&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99" height="195" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimishkumar9155-lgtm&theme=tokyonight&hide_border=true&ring=00FF99&fire=00FF99" height="195" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+"""
+
+file_path = "README_updated.md"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(markdown_content)
+
+print(f"Created {file_path}")
