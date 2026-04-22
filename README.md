@@ -9,7 +9,7 @@ markdown_content = """<div align="center">
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Nimish+Kumar;Engineering+the+Future+at+KR+Mangalam;Building+Autonomous+Robots+%26+IoT+Systems;Training+AI+Models+%26+Computer+Vision;Cinematic+Drone+Pilot+%26+Photographer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Pratik jaiswal;Engineering+the+Future+at+KR+Mangalam;Building+Autonomous+Robots+%26+IoT+Systems;Training+AI+Models+%26+Computer+Vision;Cinematic+Drone+Pilot+%26+Photographer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
