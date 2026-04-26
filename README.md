@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+<a href="https://https://www.linkedin.com/in/pratik-jaiswal-b12a713a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_applinkedin.com/in/YOUR_LINKEDIN_ID">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/YOUR_TWITTER_ID">
