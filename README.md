@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/Pratik_Jaiswal_62/LeetCode.com/YOUR_LeetCode_ID">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/LeetCode-1DA1F2?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
 </a>
 <a href="YOUR_PORTFOLIO_LINK">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
